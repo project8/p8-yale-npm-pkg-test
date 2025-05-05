@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/project8/p8-yale-npm-pkg-test/issues"
   },
-  "homepage": "https://github.com/project8/p8-yale-npm-pkg-test#readme"
+  "homepage": "https://github.com/project8/p8-yale-npm-pkg-test#readme",
+  "publishConfig": {
+    "@project8:registry": "https://npm.pkg.github.com"
+  }
 }
